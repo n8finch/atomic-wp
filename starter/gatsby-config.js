@@ -14,5 +14,5 @@ module.exports = {
       }
     ]
   },
-  plugins: [{ resolve: `gatsby-theme-RENAME_ME`, options: {} }]
+  plugins: [{ resolve: `gatsby-theme-atomic-wp`, options: {} }]
 };

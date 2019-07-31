@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-RENAME_ME-workspace",
+  "name": "gatsby-theme-atomic-wp-workspace",
   "private": true,
   "version": "0.0.1",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "yarn workspace example build"
   },
   "workspaces": [
-    "gatsby-theme-RENAME_ME",
+    "gatsby-theme-atomic-wp",
     "starter"
   ]
 }
